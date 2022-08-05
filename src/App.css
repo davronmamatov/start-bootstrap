@@ -139,3 +139,6 @@ main #section-2 .container .d-flex .card .card-body a{
     border: 1px solid black;
     font-size: 22px;
 }
+footer{
+    height: 120px;
+}
