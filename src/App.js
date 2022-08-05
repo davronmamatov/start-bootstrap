@@ -59,7 +59,7 @@ function App() {
         <section id='section-2'>
           <div className="container">
             <div className="d-flex mb-5 justify-content-between">
-              <div class="card text-center">
+              <div class="card me-5 text-center">
                 <img src={rasim} class="card-img-top" alt=""/>
 
                 <div class="card-body">
@@ -85,7 +85,7 @@ function App() {
                   <a href="#" class="btn">Add to card</a>
                 </div>
               </div>
-              <div class="card text-center">
+              <div class="card ms-5 text-center">
               <span className='sale'><b>Sale</b></span>
                 <img src={rasim} class="card-img-top" alt=""/>
 
@@ -97,7 +97,7 @@ function App() {
               </div>
             </div>
             <div className="d-flex mb-5 justify-content-between">
-              <div class="card text-center">
+              <div class="card me-5 text-center">
                 <img src={rasim} class="card-img-top" alt=""/>
 
                 <div class="card-body">
@@ -123,7 +123,7 @@ function App() {
                   <a href="#" class="btn mt-4">Add to card</a>
                 </div>
               </div>
-              <div class="card text-center">
+              <div class="card ms-5 text-center">
                 <img src={rasim} class="card-img-top" alt=""/>
 
                 <div class="card-body">
