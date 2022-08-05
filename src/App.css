@@ -99,7 +99,9 @@ main #section-2{
     background-color: white;
 }
 main #section-2 .container{
-    padding: 130px 120px;
+    width: 1150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 main #section-2 .container .d-flex .card{
     width: 330px;
